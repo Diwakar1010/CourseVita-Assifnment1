@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Card, CardContent, CardMedia, Typography, keyframes } from '@mui/material';
+import { Box, Card, CardMedia, Typography, keyframes } from '@mui/material';
 import CalendarTodayIcon from '@mui/icons-material/CalendarToday';
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import FiberManualRecordIcon from '@mui/icons-material/FiberManualRecord';
